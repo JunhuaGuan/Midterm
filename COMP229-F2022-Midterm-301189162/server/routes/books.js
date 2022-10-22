@@ -1,3 +1,9 @@
+// Junhua Guan
+// OCt 22 2022
+// 301189162
+// Comp229
+// -----------
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();
